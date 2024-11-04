@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mobile Programming**
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Java, Kotlin and React Native**
 
 - 📫 How to reach me **omerrfarukgundogdu@gmail.com**
 
