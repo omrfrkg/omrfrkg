@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm Ömer Faruk Gündoğdu</h1>
+# 👋 Hi, I’m Ömer Faruk Gündoğdu (omrfrkg)
 
+- 🧑‍💻 Currently focused on **full-stack web development** using **C# & ASP.NET**
+- 📱 Also experienced in **mobile app development** with Java, Kotlin & React Native
+- 📧 Reach me at: omerrfarukgundogdu@gmail.com
+- 🚀 Always learning, always building
 
-- 📫 How to reach me **omerrfarukgundogdu@gmail.com**
+---
 
+## 💼 What I'm Working on Now
 
+### 🔧 Full-Stack ASP.NET Web Development  
+Actively building **modern, scalable web applications** using:
+- 🖥️ **ASP.NET Core MVC**
+- 🧠 **Entity Framework Core**
+- 💾 **SQL Server**
+- 🧰 Dependency Injection, Layered Architecture, Clean Code Principles
 
-<p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrfrkg&show_icons=true&locale=en&layout=compact" alt="omrfrkg" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=omrfrkg&show_icons=true&locale=en" alt="omrfrkg" />
-</p>
+> I’m currently developing a multi-page web application focused on practical business logic, clean architecture, and reusable components — stay tuned for the repo!
 
+---
+
+## 🧪 Other Skills & Technologies
+
+| Area              | Stack & Tools                                    |
+|-------------------|--------------------------------------------------|
+| Web Dev (Current) | C#, ASP.NET Core, Razor Pages, SQL, EF Core      |
+| Mobile Dev        | Java, Kotlin, React Native, Firebase, Retrofit   |
+| Design Patterns   | Singleton, Observer, MVVM                        |
+| Database          | SQL Server, Room DB, Firebase Realtime DB       |
+| UI & UX           | XML (Android), React Navigation, Clean UI flows |
+| Tools             | Git, VS Code, Android Studio, Postman            |
+
+---
+
+## 🌍 Let’s Connect
+
+- GitHub: [github.com/omrfrkg](https://github.com/omrfrkg)  
+- Email: omerrfarukgundogdu@gmail.com  
+
+---> — Ömer Faruk Gündoğdu
 
