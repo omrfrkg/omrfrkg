@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ömer Faruk Gündoğdu (omrfrkg)
 
 - 🧑‍💻 Currently focused on **full-stack web development** using **C# & ASP.NET**
-- 📱 Also experienced in **mobile app development** with Java, Kotlin & React Native
+- 📱 I have also worked on **mobile application development** with Java, Kotlin, and React Native.
 - 📧 Reach me at: omerrfarukgundogdu@gmail.com
 - 🚀 Always learning, always building
 
