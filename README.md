@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Gündoğdu</h1>
-<h3 align="center">I aim to become a mobile programming developer</h3>
 
-
-- 🔭 I’m currently working on **Mobile Programming**
-
-- 🌱 I’m currently learning **Java, Kotlin and React Native**
 
 - 📫 How to reach me **omerrfarukgundogdu@gmail.com**
 
