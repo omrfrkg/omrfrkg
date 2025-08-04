@@ -34,6 +34,3 @@ Actively building **modern, scalable web applications** using:
 
 - GitHub: [github.com/omrfrkg](https://github.com/omrfrkg)  
 - Email: omerrfarukgundogdu@gmail.com  
-
----> — Ömer Faruk Gündoğdu
-
