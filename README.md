@@ -15,9 +15,6 @@ Actively building **modern, scalable web applications** using:
 - 🧠 **Entity Framework Core**
 - 💾 **SQL Server**
 - 🧰 Dependency Injection, Layered Architecture, Clean Code Principles
-
-> I’m currently developing a multi-page web application focused on practical business logic, clean architecture, and reusable components — stay tuned for the repo!
-
 ---
 
 ## 🧪 Other Skills & Technologies
